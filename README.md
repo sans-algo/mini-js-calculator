@@ -3,7 +3,7 @@
 A simple calculator built with **HTML, CSS, and JavaScript**.  
 It performs basic arithmetic operations: addition, subtraction, multiplication, and division.
 
-👉 **[Live Demo](https://your-username.github.io/mini-js-calculator/)**
+👉 **[Live Demo](https://sans-algo.github.io/mini-js-calculator/)**
 
 ---
 
